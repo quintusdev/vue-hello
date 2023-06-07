@@ -9,3 +9,10 @@ SOLUZIONE:
     2.2- collego creatApp con l'elemento del DOM predisposto al funzionamento dell'applicazione Vue;
     2.3- definisco il data con in suo return;
     2.4- all'interno del return definisco la variabile di cui ho bisogno;
+
+
+BONUS 1:
+Aggiungere alla pagina un’immagine, presa anch’essa da un data.
+
+1. Nel DOM aggiungo un DIV con dentro una img;
+2. Faccio un BIND all'elemento nel data

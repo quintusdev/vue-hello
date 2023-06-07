@@ -7,7 +7,8 @@ createApp({
     data() {
         return {
             //All'interno del return definisco le variabili
-            saluto: '<h1>Ciao sono VUE JS!</h1>'
+            saluto: '<h1>Ciao sono VUE JS!</h1>',
+            image: 'https://picsum.photos/400/400'
         }
     }
     //Collego il createApp con l'elemento del DOM corrispondente
